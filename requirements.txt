@@ -3,3 +3,4 @@ fastai==2.7.13
 pillow>=9.0.0
 packaging
 ipywidgets==8.0.4
+gradio-4.7.1
