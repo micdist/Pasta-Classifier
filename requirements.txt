@@ -1,6 +1,12 @@
-voila
-fastai==2.7.13
+
+
 pillow>=9.0.0
 packaging
-ipywidgets==8.0.4
+
 gradio==4.7.1
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu
+torchvision==0.9.1+cpu
+fastai
+voila
+ipywidgets
