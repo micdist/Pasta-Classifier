@@ -1,5 +1,5 @@
 voila
 fastai==2.7.13
-pillow<7
+pillow>=9.0.0
 packaging
 ipywidgets==8.0.4
